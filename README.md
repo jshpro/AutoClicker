@@ -1,2 +1,0 @@
-# AutoClicker
-Autoclicker for mc
